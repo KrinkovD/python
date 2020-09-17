@@ -11,7 +11,7 @@ szam4 = float(35)
 print(type(szam4))
 print(szam4)
 
-
+print(szam4)
 
 
 
