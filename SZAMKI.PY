@@ -1,0 +1,11 @@
+print('85')
+print(75/2)
+print("körte\nbarack")
+print('körte\nbarack')
+print("\u7a7a")
+print("\u624b")
+print("\u12001")
+print("\u2169")
+print("hello\tworld")
+print("\a") 
+
